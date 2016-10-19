@@ -531,3 +531,5 @@ var chart = {};
     };
 
 }(chart));
+
+module.exports = chart;
