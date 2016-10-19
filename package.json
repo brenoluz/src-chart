@@ -1,5 +1,5 @@
 {
-  "name": "canvas-chart",
+  "name": "scr-chart",
   "version": "1.0.0",
   "description": "A simple Canvas Chart Library",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "author": "Breno M Luz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marxluz/canvaschart/issues"
+    "url": "https://github.com/marxluz/src-chart/issues"
   },
-  "homepage": "https://github.com/marxluz/canvaschart#readme"
+  "homepage": "https://github.com/marxluz/src-chart#readme"
 }
