@@ -1,0 +1,25 @@
+{
+  "name": "Canvas Chart",
+  "description": "A simple Canvas Chart Library",
+  "main": "src/chart.js",
+  "authors": [
+    "Breno M Luz"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "canvas",
+    "javascript",
+    "chart",
+    "pie",
+    "line"
+  ],
+  "homepage": "https://github.com/marxluz/canvaschart",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

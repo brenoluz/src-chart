@@ -1,5 +1,5 @@
 {
-  "name": "chart",
+  "name": "canvas-chart",
   "version": "1.0.0",
   "description": "A simple Canvas Chart Library",
   "main": "index.js",
